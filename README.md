@@ -11,7 +11,7 @@ Key components:
 
 ## Paper Reference
 - Title: **CBAM-Xception: An Attention-Guided Framework for Skin Cancer Classification**
-- Link: [NOT PUBLISH YET]()
+- Link: [NOT PUBLISHED YET]()
 
 ## Folder Structure
 - `Data Augmentation.ipynb`: Data augmentation implementation and visualization.
